@@ -1,0 +1,1 @@
+This is a not real simple activity management platform. - 20180602
